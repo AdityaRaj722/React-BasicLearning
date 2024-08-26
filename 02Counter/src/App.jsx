@@ -9,6 +9,11 @@ function App() {
     if(counter<=20){
     setConter(counter)
   }
+  // setConter(pervCounter=>pervCounter+1)
+  // setConter(pervCounter=>pervCounter+1)
+  // setConter(pervCounter=>pervCounter+1)
+  // setConter(pervCounter=>pervCounter+1)
+  // setConter(pervCounter=>pervCounter+1)
 }
   const decvalue=()=>{
     counter=counter-1;
